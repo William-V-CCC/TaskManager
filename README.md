@@ -1,5 +1,5 @@
 MacOS 
-Click the clone button chose SSH copy it and open your devices terminal.
+Click the code button choose SSH copy it and open your devices terminal.
 
 cd into whatever folder you want this within 
 example being cd TestFolder1
