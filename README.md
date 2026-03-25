@@ -1,3 +1,15 @@
+MacOS 
+Click the clone button chose SSH copy it and open your devices terminal.
+
+cd into whatever folder you want this within 
+example being cd TestFolder1
+you will now be in this folder, then run git clone "the SSH"
+once its done cloning do cd TaskManager to enter the file
+After that run " code . " and go from their
+
+
+
+
 Open the terminal built into visual studio code using the button in the top right. (should be the 3rd button in the very top right looking left to right)
 
 Run
